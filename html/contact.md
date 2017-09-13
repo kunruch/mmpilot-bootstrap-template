@@ -6,9 +6,13 @@ description: 'Your contact page description'
 
 Your Contact Form
 
-<form action="https://formspree.io/your@email.com"
+<form class="form-inline" action="https://formspree.io/your@email.com"
       method="POST">
-    <input type="text" name="name" placeholder="Name">
-    <input type="email" name="_replyto"  placeholder="E-mail">
-    <input type="submit" value="Send">
+    <div class="form-group">
+      <input class="form-control" type="text" name="name" placeholder="Name">
+    </div>
+    <div class="form-group mx-sm-3">
+      <input class="form-control" type="email" name="_replyto"  placeholder="E-mail">
+    </div>
+    <button class="btn btn-primary" type="submit">Send</button>
 </form>
