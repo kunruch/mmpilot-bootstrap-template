@@ -1,7 +1,7 @@
 {
-  "name": "mmpilot-basic-template",
+  "name": "mmpilot-bootstrap-template",
   "version": "1.0.0",
-  "description": "This is a basic starter template for MMPilot.",
+  "description": "This is a starter template for MMPilot with Bootstrap Framework.",
   "scripts": {
     "clean": "mmpilot clean",
     "build": "mmpilot build",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kunruch/mmpilot-basic-template.git"
+    "url": "git+https://github.com/kunruch/mmpilot-bootstrap-template.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kunruch/mmpilot-basic-template/issues"
+    "url": "https://github.com/kunruch/mmpilot-bootstrap-template/issues"
   },
-  "homepage": "https://github.com/kunruch/mmpilot-basic-template#readme",
+  "homepage": "https://github.com/kunruch/mmpilot-bootstrap-template#readme",
   "devDependencies": {
     "mmpilot": "^0.6.3",
     "npm-run-all": "^4.0.1"

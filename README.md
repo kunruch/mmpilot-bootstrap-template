@@ -1,15 +1,17 @@
-# mmpilot-basic-template
-This is a basic starter template for [MMPilot](https://mmpilot.kunruchcreations.com/) - It doesn't include any CSS framework or JavaScript libraries.
+# mmpilot-bootstrap-template
+This is a starter template for [MMPilot](https://mmpilot.kunruchcreations.com/) - It includes [Bootstrap Framework](https://getbootstrap.com).
 
-It has just the bare bone files and setup to kickstart your website with MMPilot. 
+It has the bare bone files along with Bootstrap to setup and kickstart your website with MMPilot. 
 
-**[Live Demo](https://kunruch.github.io/mmpilot-basic-template/)**
+**[Live Demo](https://kunruch.github.io/mmpilot-bootstrap-template/)**
 
-You may also want to check out other advanced [MMPilot templates](https://mmpilot.kunruchcreations.com/templates/), in case this template is too minimal for you.
+You may also want to check out other [MMPilot templates](https://mmpilot.kunruchcreations.com/templates/)
 
 ## How to use this template
 
-1. Clone or [download](https://github.com/kunruch/mmpilot-basic-template/archive/master.zip) this template.
+1. Clone or [download](https://github.com/kunruch/mmpilot-basic-template/archive/master.zip) this template. Or run the following command if you have MMPilot installed:
+
+   `mmpilot new bootstrap <project-name>`
 
 2. Install dependencies: ``npm install``
 
