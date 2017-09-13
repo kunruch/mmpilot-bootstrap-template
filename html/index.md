@@ -1,6 +1,6 @@
 ---
 layout: 'default'
-title: 'Home Basic Template'
+title: 'Home'
 description: 'This is a basic starter template for MMPilot. It does not include any CSS framework or JavaScript libraries.'
 ---
 
