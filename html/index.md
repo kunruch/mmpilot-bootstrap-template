@@ -1,7 +1,7 @@
 ---
 layout: 'default'
 title: 'Home'
-description: 'This is a basic starter template for MMPilot. It does not include any CSS framework or JavaScript libraries.'
+description: 'This is a basic starter template for MMPilot which includes Bootstrap Framework.'
 ---
 
 This is a basic starter template for MMPilot.
@@ -10,7 +10,7 @@ It has just the bare bone files and setup to kickstart your website with MMPilot
 
 Feel free to add your own frameworks to the project. Turn it into a website or a webapp, the choice is yours.
 
-You may also want to check out other advanced [MMPilot templates](https://mmpilot.kunruchcreations.com/templates/), in case this template is too minimal for you.
+You may also want to check out other advanced [MMPilot templates](https://mmpilot.kunruchcreations.com/templates/).
 
 ## How to use this template
 
