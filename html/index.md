@@ -1,6 +1,6 @@
 ---
 layout: 'default'
-title: 'MMPilot Basic Template'
+title: 'Home Basic Template'
 description: 'This is a basic starter template for MMPilot. It does not include any CSS framework or JavaScript libraries.'
 ---
 
@@ -14,7 +14,7 @@ You may also want to check out other advanced [MMPilot templates](https://mmpilo
 
 ## How to use this template
 
-1. [Clone](https://github.com/kunruch/mmpilot-basic-template) or [download](https://github.com/kunruch/mmpilot-basic-template/archive/master.zip) this template.
+1. [Clone](https://github.com/kunruch/mmpilot-bootstrap-template) or [download](https://github.com/kunruch/mmpilot-bootstrap-template/archive/master.zip) this template.
 
 2. Install dependencies: ``npm install``
 

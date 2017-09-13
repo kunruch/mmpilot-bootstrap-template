@@ -9,7 +9,7 @@ You may also want to check out other [MMPilot templates](https://mmpilot.kunruch
 
 ## How to use this template
 
-1. Clone or [download](https://github.com/kunruch/mmpilot-basic-template/archive/master.zip) this template. Or run the following command if you have MMPilot installed:
+1. Clone or [download](https://github.com/kunruch/mmpilot-bootstrap-template/archive/master.zip) this template. Or run the following command if you have MMPilot installed:
 
    `mmpilot new bootstrap <project-name>`
 
