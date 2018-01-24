@@ -3,10 +3,10 @@
         <title><![CDATA[Blog]]></title>
         <description><![CDATA[Blog]]></description>
         <link>https://kunruch.github.io</link>
-        <generator>mmpilot v0.6.3</generator>
-        <lastBuildDate>Wed, 13 Sep 2017 07:17:12 GMT</lastBuildDate>
+        <generator>mmpilot v0.6.6</generator>
+        <lastBuildDate>Wed, 24 Jan 2018 07:45:23 GMT</lastBuildDate>
         <atom:link href="https://kunruch.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 Sep 2017 07:17:12 GMT</pubDate>
+        <pubDate>Wed, 24 Jan 2018 07:45:23 GMT</pubDate>
         <item>
             <title><![CDATA[Hello World!]]></title>
             <description><![CDATA[<p>Hello World! This is my first blog post. Edit it or delete it.</p>
